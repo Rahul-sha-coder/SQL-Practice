@@ -85,7 +85,7 @@ SQL-Practice/
 
 | Level | Progress |
 |--------|----------|
-| Basic | ⏳ 0% |
+| Basic | ✅ 24  |
 | Intermediate | ⏳ 0% |
 | Advanced | ⏳ 0% |
 
